@@ -1,0 +1,7 @@
+A,B,U,p
+baseline,s3_uniform,3.0,0.05555555555555555
+s1_extremes,s3_uniform,5.0,0.15079365079365079
+s2_extremes_mid,s3_uniform,8.0,0.42063492063492064
+baseline,s1_extremes,10.0,0.6904761904761905
+baseline,s2_extremes_mid,10.0,0.6904761904761905
+s1_extremes,s2_extremes_mid,14.0,0.8412698412698413

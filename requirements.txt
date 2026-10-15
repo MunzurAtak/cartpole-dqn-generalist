@@ -1,0 +1,7 @@
+gym==0.26.2
+numpy<2.0          # gym 0.26 uses np.bool8, which was removed in NumPy 2.0
+torch
+pandas
+matplotlib
+openpyxl           # needed for the Excel export in test_script.py
+scipy              # statistical tests

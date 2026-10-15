@@ -1,0 +1,15 @@
+{
+  "episodes": 600,
+  "gamma": 0.99,
+  "lr": 0.0005,
+  "batch_size": 64,
+  "buffer_size": 50000,
+  "min_buffer": 1000,
+  "target_update_freq": 500,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "eps_decay_frac": 0.5,
+  "grad_clip": 10.0,
+  "eval_every": 25,
+  "eval_episodes": 3
+}
