@@ -125,6 +125,6 @@ test script loads.
   Two models failed in testing: `s1_extremes_seed1` and `s2_extremes_mid_seed3`. These are exactly the
   runs whose best validation score never got above about 350.
 
-## Team
+## Group
 
-Team XX: Munzur Atak, Max Leenman, Arin Gupta
+Group 1: Munzur Atak, Max Leenman, Arin Gupta
